@@ -63,7 +63,7 @@ img{
     margin: 20px;
     border-radius: 7px;
 }
-.formulario{
+.form{
     display: flex;
     flex-direction: column;
     margin: 20px;
@@ -231,7 +231,7 @@ h2{
     .main h2{
         font-size: 70px;
     }
-   .formulario{
+   .form{
         margin-top: 2%;
    }
     .main{
@@ -328,7 +328,7 @@ h2{
         width: 100%;
         margin-left: 2%;
     }
-    .confirmar{
+    .confirm{
         position: absolute;
         width: 60%;
         margin-top: 21.3%;
